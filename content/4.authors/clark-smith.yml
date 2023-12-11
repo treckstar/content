@@ -1,0 +1,21 @@
+layout: author
+title: Clark Smith
+subtitle: Software Engineer
+location: New York, NY
+company: Freelance
+description: >
+  Clark Smith is a software engineer with over 8+ years of experience.
+  Clark has experience with many languages and is comfortable working on both front-end and back-end development.
+avatar:
+  src: /img/avatars/small/3.svg
+  alt: Clark Smith Avatar
+social:
+  - title: LinkedIn
+    href: https://www.linkedin.com/company/cssninja/
+    icon: brandico:linkedin
+  - title: Facebook
+    href: https://www.facebook.com/treckstar
+    icon: brandico:facebook
+  - title: Twitter
+    href: https://twitter.com/treckstar
+    icon: brandico:twitter

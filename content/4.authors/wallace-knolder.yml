@@ -1,0 +1,22 @@
+layout: author
+title: Wallace Knolder
+subtitle: Art Director
+location: Dublin, IR
+company: Freelance
+featured: false
+description: >
+  Meet Wallace Knolder, a highly talented art director with a keen eye for detail.
+  Wallace began his career in the creative industry as a graphic designer, but quickly realized his true passion was in art direction.
+avatar:
+  src: /img/avatars/small/16.svg
+  alt: Wallace Knolder Avatar
+social:
+  - title: LinkedIn
+    href: https://www.linkedin.com/company/cssninja/
+    icon: brandico:linkedin
+  - title: Facebook
+    href: https://www.facebook.com/treckstar
+    icon: brandico:facebook
+  - title: Twitter
+    href: https://twitter.com/treckstar
+    icon: brandico:twitter

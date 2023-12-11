@@ -1,0 +1,20 @@
+layout: author
+title: Brandon Trecki
+featured: true
+subtitle: Developer
+location: Pittsburgh, PA
+company: BUH Stack
+description: With over a decade of professional experience, I am deeply committed to open source technology. This team spirit is at the core of my development philosophy.
+avatar:
+  src: /img/avatars/small/25.svg
+  alt: Brandon Trecki's Avatar
+social:
+  - title: LinkedIn
+    href: https://www.linkedin.com/in/treckstar
+    icon: brandico:linkedin
+  - title: GitHub
+    href: https://www.github.com/treckstar
+    icon: brandico:facebook
+  - title: Twitter
+    href: https://stackoverflow.com/users/1043495/treckstar
+    icon: logos:stackoverflow-icon
