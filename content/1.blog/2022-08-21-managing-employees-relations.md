@@ -1,8 +1,8 @@
 ---
 layout: article
 title: Managing relations between employees in small startups and business
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et nemo nimium beatus est; Idemne, quod iucunde? Duo Reges constructio interrete. At iamdecimum annum in spelunca iacet.
-author: /authors/brandon-trecki
+description: Small startups and businesses often have a close-knit team, where employees wear multiple hats and work closely together. But, managing employee relations can be challenging, especially in a fast-paced and rapidly-changing environment. Here are some tips for managing employee relations in small startups and businesses.
+author: /authors/cssninjaStudio
 publishDate: 2022-08-28T00:00:00.000Z
 featured: false
 cover:

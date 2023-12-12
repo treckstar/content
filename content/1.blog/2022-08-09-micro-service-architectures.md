@@ -1,8 +1,8 @@
 ---
 layout: article
 title: Modern web development and micro service based architectures
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et nemo nimium beatus est; Idemne, quod iucunde? Duo Reges constructio interrete. At iamdecimum annum in spelunca iacet.
-author: /authors/brandon-trecki
+description: Microservice architecture is a software design pattern in which a large, complex application is broken down into smaller, independent services that communicate with each other through APIs. This approach to software development has become increasingly popular in recent years, as it offers several advantages over traditional monolithic architectures.
+author: /authors/cssninjaStudio
 publishDate: 2022-08-09T00:00:00.000Z
 featured: false
 cover:

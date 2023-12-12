@@ -1,8 +1,8 @@
 ---
 layout: article
 title: Backend Development and REST APIs when working with Headless CMS
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et nemo nimium beatus est; Idemne, quod iucunde? Duo Reges constructio interrete. At iamdecimum annum in spelunca iacet.
-author: /authors/brandon-trecki
+description: Backend development is the process of creating and maintaining the server-side of a web application. This includes the database, server-side logic, and APIs (Application Programming Interfaces) that allow the frontend of the application to communicate with the backend. One of the most popular types of APIs used in backend development is REST (Representational State Transfer) APIs. REST is an architectural style that defines a set of constraints to be followed when creating web services. These constraints include the use of HTTP methods (such as GET, POST, PUT, and DELETE) to interact with resources, and the use of a uniform interface (such as URIs and JSON or XML data formats) to represent those resources.
+author: /authors/cssninjaStudio
 publishDate: 2022-08-28T00:00:00.000Z
 cover:
   src: /img/posts/5.png

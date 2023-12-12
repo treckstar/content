@@ -1,8 +1,8 @@
 ---
 layout: article
 title: 8 things that will help you increase your productivity
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et nemo nimium beatus est; Idemne, quod iucunde? Duo Reges constructio interrete. At iamdecimum annum in spelunca iacet.
-author: /authors/brandon-trecki
+description: Feeling overwhelmed and struggling to get things done? Here are some practical ways to improve productivity and increase your efficiency. 
+author: /authors/cssninjaStudio
 publishDate: 2022-08-28T00:00:00.000Z
 featured: false
 cover:

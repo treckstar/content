@@ -1,8 +1,8 @@
 ---
 layout: article
 title: Exploring UX Patterns in Ecommerce websites and applications
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et nemo nimium beatus est; Idemne, quod iucunde? Duo Reges constructio interrete. At iamdecimum annum in spelunca iacet.
-author: /authors/brandon-trecki
+description: User experience (UX) is a crucial aspect of ecommerce design. It can make or break a customer's decision to purchase from your website. In this post, we will explore some of the most popular UX patterns in ecommerce and how they can be used to improve the customer experience.
+author: /authors/cssninjaStudio
 publishDate: 2022-08-27T00:00:00.000Z
 featured: true
 cover:

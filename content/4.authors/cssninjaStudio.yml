@@ -1,0 +1,17 @@
+layout: author
+title: cssninjaStudio
+featured: true
+subtitle: Frontend Developer
+location:
+company: Css Ninja Studio
+description: urce technology. This team spirit is at the core of my development philosophy.
+avatar:
+  src: /img/avatars/small/17.svg
+  alt: CSSNinja Avatar
+social:
+  - title: GitHub
+    href: https://www.github.com/cssninjaStudio
+    icon: brandico:GitHub
+  - title: Website
+    href: https://cssninja.io
+    icon: brandico:link

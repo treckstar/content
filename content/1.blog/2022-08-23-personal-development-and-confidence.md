@@ -1,8 +1,8 @@
 ---
 layout: article
 title: Personal Development and Confidence in Business Environments
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et nemo nimium beatus est; Idemne, quod iucunde? Duo Reges constructio interrete. At iamdecimum annum in spelunca iacet.
-author: /authors/brandon-trecki
+description: Personal development and confidence are essential for success in any business environment. Here are some tips for building personal development and confidence in the workplace.
+author: /authors/cssninjaStudio
 publishDate: 2022-08-28T00:00:00.000Z
 cover:
   src: /img/posts/4.png
