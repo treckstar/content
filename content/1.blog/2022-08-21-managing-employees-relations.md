@@ -2,7 +2,7 @@
 layout: article
 title: Managing relations between employees in small startups and business
 description: Small startups and businesses often have a close-knit team, where employees wear multiple hats and work closely together. But, managing employee relations can be challenging, especially in a fast-paced and rapidly-changing environment. Here are some tips for managing employee relations in small startups and businesses.
-author: /authors/cssninjaStudio
+author: /authors/cssninja-studio
 publishDate: 2022-08-28T00:00:00.000Z
 featured: false
 cover:

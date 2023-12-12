@@ -2,7 +2,7 @@
 layout: article
 title: Personal Development and Confidence in Business Environments
 description: Personal development and confidence are essential for success in any business environment. Here are some tips for building personal development and confidence in the workplace.
-author: /authors/cssninjaStudio
+author: /authors/cssninja-studio
 publishDate: 2022-08-28T00:00:00.000Z
 cover:
   src: /img/posts/4.png
