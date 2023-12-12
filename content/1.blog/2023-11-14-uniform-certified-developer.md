@@ -4,7 +4,7 @@ title: Certified Uniform Developer
 description: Recently was certified as a Uniform developer. Uniform is a headless CMS that is built on top of React. It is a great tool for marketing teams, agencies, content editors, and anyone looking for a visual editor to manage their content.
 author: /authors/brandon-trecki
 featured: true
-publishDate: 2023-14-11T00:00:00.000Z
+publishDate: 2023-11-14T00:00:00.000Z
 cover:
   src: /img/posts/uniform-og.png
 category: /categories/business
