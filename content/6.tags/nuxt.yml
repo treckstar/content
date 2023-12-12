@@ -1,0 +1,10 @@
+layout: tag
+title: Tagged With 'Nuxt'
+short: "#nuxt"
+icon: ph:square-duotone
+description: >
+  You can find all the posts that are associated with the tag Nuxt.
+links:
+  - text: Back to Tags
+    href: /tags
+    icon: lucide:arrow-left
