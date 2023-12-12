@@ -14,7 +14,7 @@ social:
     icon: brandico:linkedin
   - title: GitHub
     href: https://www.github.com/treckstar
-    icon: brandico:facebook
+    icon: logos:github-icon
   - title: Twitter
     href: https://stackoverflow.com/users/1043495/treckstar
     icon: logos:stackoverflow-icon
