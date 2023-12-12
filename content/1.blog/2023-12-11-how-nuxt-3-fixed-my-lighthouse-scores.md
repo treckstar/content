@@ -4,7 +4,7 @@ title: How Nuxt 3 Fixed My Lighthouse Scores
 description: I recently updated my website to Nuxt 3 with static site generation, and it has significantly improved my Lighthouse scores.
 author: /authors/brandon-trecki
 featured: true
-publishDate: 2023-11-12T00:00:00.000Z
+publishDate: 2023-12-11-2T00:00:00.000Z
 cover:
   src: /img/posts/vercel-speed-insight-1.png
 category: /categories/business
@@ -20,9 +20,11 @@ tags:
 
 I have recently been refreshing my blog, and SEO and page speed are very important to me. Using Vercel Analytics, I was able to see the performance improvements in real-time. The first image below shows the performance of my website before the update. The second image shows the performance after the update.
 
-![Vercel Speed Insight 1](/img/posts/vercel-speed-insight-1.png)
-
 ![Vercel Speed Insight 2](/img/posts/vercel-speed-insight-2.png)
+
+![Vercel Speed Insight 3](/img/posts/vercel-speed-insight-3.png)
+
+![Vercel Speed Insight 1](/img/posts/vercel-speed-insight-1.png)
 
 ## Lighthouse Scores
 

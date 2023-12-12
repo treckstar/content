@@ -1,7 +1,7 @@
 layout: author
 title: CSS Ninja
 featured: true
-subtitle: Frontend Develope
+subtitle: Frontend Developer
 location: Paris, France
 company: CSS Ninja Studio
 description: Leader of the CSS Ninja team. I work on the design and development of the themes and templates that we sell on our website. I am also a frontend developer and I love to share my knowledge with the community.
@@ -15,6 +15,3 @@ social:
   - title: GitHub
     href: https://www.github.com/cssninjaStudio
     icon: logos:github-icon
-  - title: Twitter
-    href: https://stackoverflow.com/users/1043495/treckstar
-    icon: logos:stackoverflow-icon
