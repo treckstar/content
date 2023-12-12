@@ -4,7 +4,7 @@ title: How Nuxt 3 Fixed My Lighthouse Scores
 description: I recently updated my website to Nuxt 3 with static site generation, and it has significantly improved my Lighthouse scores.
 author: /authors/brandon-trecki
 featured: true
-publishDate: 2023-12-11-2T00:00:00.000Z
+publishDate: 2023-11-12T00:00:00.000Z
 cover:
   src: /img/posts/vercel-speed-insight-1.png
 category: /categories/business
