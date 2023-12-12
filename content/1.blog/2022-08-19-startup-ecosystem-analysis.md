@@ -2,7 +2,7 @@
 layout: article
 title: A deep dive in business analysis of the startup ecosystem
 description: The startup ecosystem is a term used to describe the environment in which startups and new businesses operate. This includes the various stakeholders involved, such as investors, entrepreneurs, and government organizations, as well as the resources and support available to startups. In this post, we'll take a closer look at the business analysis of the startup ecosystem and how it affects the success of new businesses.
-author: /authors/cssninja-studio
+author: /authors/css-ninja
 publishDate: 2022-08-19T00:00:00.000Z
 featured: true
 cover:

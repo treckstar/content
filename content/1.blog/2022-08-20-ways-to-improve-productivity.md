@@ -2,7 +2,7 @@
 layout: article
 title: 8 things that will help you increase your productivity
 description: Feeling overwhelmed and struggling to get things done? Here are some practical ways to improve productivity and increase your efficiency. 
-author: /authors/cssninja-studio
+author: /authors/css-ninja
 publishDate: 2022-08-28T00:00:00.000Z
 featured: false
 cover:

@@ -2,7 +2,7 @@
 layout: article
 title: A few things you should know about key account management
 description: Key account management is a strategic approach to managing and nurturing relationships with your most important customers. It involves identifying key accounts, understanding their needs and goals, and developing customized strategies to meet those needs. Here are a few things you should know about key account management.
-author: /authors/cssninja-studio
+author: /authors/css-ninja
 publishDate: 2022-08-10T00:00:00.000Z
 featured: false
 cover:
