@@ -3,7 +3,7 @@ layout: article
 title: Emergency! Strapi Wiped Out My Database, and I didn't back up my data!
 description: Hopefully this hasn't happened to you, but if it has, you're not alone, according to their forums and discord. Let's dive into the developer documentation and see what we can do to prevent this from happening again.
 author: /authors/brandon-trecki
-publishDate: 2022-08-15T00:00:00.000Z
+publishDate: 2022-15-08T00:00:00.000Z
 featured: false
 cover:
   src: /img/posts/13.png
